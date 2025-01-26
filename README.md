@@ -79,7 +79,7 @@ A curated list of powerful and innovative AI-powered development tools, includin
 - [Tabnine](https://www.tabnine.com/) - AI code assistant with privacy focus and wide language support.
 - [Kodezi](https://kodezi.com/) - Comprehensive AI-powered developer tool.
 - [OpenAI Codex](https://platform.openai.com/docs/guides/code/) - AI system translating natural language to code.
-- [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/) - ML-powered coding companion for various IDEs and CLIs.
+- [Amazon Q Developer]([https://aws.amazon.com/codewhisperer/](https://aws.amazon.com/developer/generative-ai/amazon-q/)) - LLM-powered coding companion for various IDEs and CLIs.
 
 ### Specialized Assistants
 - [Plandex](https://plandex.ai/) - Open-source, terminal-based AI coding engine for complex projects.
